@@ -1,12 +1,12 @@
 # Ticket 02 — Wi-Fi Keeps Disconnecting Every Few Seconds
 
-**Category:** Network / Wi-Fi
-**Priority:** Critical
-**Status:** Resolved
-**Reported By:** Nina Patel
-**Department:** Engineering
-**Location:** Not specified
-**Contact:** x6195
+**Category:** Network / Wi-Fi  
+**Priority:** Critical  
+**Status:** Resolved  
+**Reported By:** Nina Patel  
+**Department:** Engineering  
+**Location:** Not specified  
+**Contact:** x6195  
 
 ---
 

@@ -1,12 +1,12 @@
 # Ticket 03 — Legal Name Change After Marriage
 
-**Category:** Account Update / User Administration
-**Priority:** Low
-**Status:** Resolved
-**Reported By:** Amanda Foster
-**Department:** Finance
-**Location:** Not specified
-**Contact:** Not specified
+**Category:** Account Update / User Administration  
+**Priority:** Low  
+**Status:** Resolved  
+**Reported By:** Amanda Foster  
+**Department:** Finance  
+**Location:** Not specified  
+**Contact:** Not specified  
 
 ---
 
