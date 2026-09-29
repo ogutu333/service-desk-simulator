@@ -51,7 +51,7 @@ I am documenting each completed ticket as a separate case study.
 |---|---|---|---|---|
 | 01 | [VPN Disconnected and Won't Reconnect](tickets/01-vpn-disconnected.md) | Networking / VPN | VPN troubleshooting, connectivity investigation | ✅ Completed |
 | 02 | [Wi-Fi Keeps Disconnecting Every Few Seconds](tickets/02-wifi-disconnecting.md) | Networking | Wireless troubleshooting, connectivity analysis | ✅ Completed |
-| 03 | [Legal Name Change After Marriage – Update My Account](tickets/03-account-name-change/) | Account Administration | User account management, identity information updates | ✅ Completed |
+| 03 | [Legal Name Change After Marriage – Update My Account](tickets/03-account-name-change.md) | Account Administration | User account management, identity information updates | ✅ Completed |
 | 04 | [Nobody on the 3rd Floor Has Internet](tickets/04-third-floor-internet/) | Network / Infrastructure | Network troubleshooting, scope analysis, incident escalation | ✅ Completed |
 | 05 | [Customer Support PC Is Completely Dead](tickets/05-customer-support-pc/) | Hardware / Endpoint | Hardware troubleshooting, endpoint support, business impact assessment | ✅ Completed |
 
