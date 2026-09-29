@@ -1,7 +1,7 @@
 # Ticket 01 — VPN Disconnected and Won't Reconnect
 
 **Category:** Network / VPN  
-**Priority:** Normal  
+**Priority:** High  
 **Status:** Resolved  
 **Reported By:** Sophia Lee  
 **Department:** Marketing  
